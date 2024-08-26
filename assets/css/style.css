@@ -78,8 +78,8 @@ a {
   align-items: center;
 }
 .header__logo img {
-  width: auto;
-  height: 40px;
+  width: 45px;
+  height: auto;
 }
 .header__menu {
   flex: 1;
@@ -162,7 +162,7 @@ a {
 }
 @media (max-width: 575.98px) {
   .header__logo img {
-    height: 32px;
+    height: 64px;
   }
 }
 
