@@ -78,7 +78,9 @@ a {
   align-items: center;
 }
 .header__logo img {
-  width: 45px;
+  display: flex;
+  align-items: center;
+  width: 60px;
   height: auto;
 }
 .header__menu {
